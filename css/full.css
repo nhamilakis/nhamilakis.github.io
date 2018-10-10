@@ -12,6 +12,14 @@ body {
   -o-background-size: cover;
 }
 
+.content {
+  position: fixed;
+  border-style: double;
+  top: 57px;
+  max-width: 1600px;
+  max-height: 1920px;
+}
+
 .center {
   display: block;
   margin-left: auto;
